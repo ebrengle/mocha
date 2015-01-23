@@ -1,0 +1,25 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "Learning JavaScript Testing with Mocha and Chai",
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebrengle/mocha.git"
+  },
+  "author": "Eric Brengle <eric.brengle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebrengle/mocha/issues"
+  },
+  "homepage": "https://github.com/ebrengle/mocha"
+}
